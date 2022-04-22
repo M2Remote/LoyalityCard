@@ -64,6 +64,7 @@ If you want to contribute please follow the below instructions:
 Current maintainers:
 
 * [m2remote](https://github.com/m2remote)
+* [Lalit Mohan](https://github.com/lalittmohan)
 
 See also our [contributers](https://github.com/m2remote/loyaltycard/graphs/contributors)
 
