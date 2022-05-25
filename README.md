@@ -1,23 +1,13 @@
-<h4 align="center">Loyalty Card For Customers in Magento 2 || Adobe Commerce </h4>
+<h4 align="center">Loyalty Card For Customers in Magento 2 || Adobe Commerce || Open Source </h4>
 
 <p align="center"><i>Module || External System Integration || porto architecture</i></p>
-
 <p align="center">
-  <a href="https://packagist.org/packages/m2remote/loyaltycard">
-    <img src="https://poser.pugx.org/m2remote/loyaltycard/v/stable"
-         alt="Latest Stable Version">
+  <img src ="https://img.shields.io/badge/magento-2.2.x%20%7C%202.3.x%20%7C%202.4.x-orange.svg?logo=magento&style=for-the-badge" />
   </a>
   <a href="https://packagist.org/packages/m2remote/loyaltycard/stats">
-    <img src="https://poser.pugx.org/ethanyehuda/magento2-cronjobmanager/downloads"
-         alt="Total Downloads">
+    <a href="https://gitHub.com/LoyaltyCard/StrapDown.js/graphs/commit-activity" target="_blank"><img src="https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg?style=for-the-badge" alt="Maintained - Yes" /></a>
   </a>
-  <a href="https://travis-ci.org/m2remote/loyaltycard">
-    <img src="https://travis-ci.org/m2remote/loyaltycard.svg?branch=1.x"
-         alt="Travis CI build status">
-  </a>
-  <a href='https://coveralls.io/github/m2remote/loyaltycard'>
-    <img src='https://coveralls.io/repos/github/m2remote/loyaltycard/badge.svg' alt='Coverage Status' />
-  </a>
+  <a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" /></a>
 </p>
 
 ## Support
@@ -106,3 +96,5 @@ See also our [contributers](https://github.com/m2remote/loyaltycard/graphs/contr
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
+
+[magento-badge]:https://img.shields.io/badge/magento-2.3.x%20%7C%202.4.x-orange.svg?logo=magento&style=for-the-badge
