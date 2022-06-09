@@ -92,6 +92,18 @@ Current maintainers:
 
 See also our [contributers](https://github.com/m2remote/loyaltycard/graphs/contributors)
 
+## credits
+
+- Alessandro Ronchi
+
+## Acknowledgements
+
+Thank the following people that contribute this work directly or indirectly:
+
+- [Ivan Chepurnyi](https://twitter.com/IvanChepurnyi), for his presentation about [the challenges of architecting Magento 2 customizations](https://www.youtube.com/watch?v=kd40IkIRzuk)
+- [James Cowie](https://twitter.com/jcowie), for his presentation about [the future of Testing Magento 2 code](https://www.youtube.com/watch?v=mHFEYGDUQ-k)
+- [Fabian Schmengler](https://twitter.com/fschmengler), for his contribution on [making it easier to write tests on Magento](https://github.com/tddwizard).
+
 
 ## License
 
